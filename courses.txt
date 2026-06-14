@@ -1,0 +1,4 @@
+CS101,OOP,3,30,20
+CS102,Database,3,40,23
+CS103,Network,3,20,14
+Math111,Math1,3,50,40
